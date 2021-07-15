@@ -1,2 +1,181 @@
-
-{"request":{"page_size":100,"page_number":1,"min_borrow_value_in_eth":{"value":"10000000000000000"},"max_collateral_ratio":{"value":"50"}},"pagination_summary":{"total_pages":1,"total_entries":27,"page_size":100,"page_number":1},"error":null,"account_values":[{"total_supply_value_in_eth":{"value":"100208241726887461.0000000000"},"total_borrow_value_in_eth":{"value":"54630940400959740.85656468000"},"block_updated":3457815,"address":"0xe4aa4aa4d768aeed2a6c84d698fecad89d24773b"},{"total_supply_value_in_eth":{"value":"100194427264004689.0000000000"},"total_borrow_value_in_eth":{"value":"53876859950636485.33804118000"},"block_updated":3457818,"address":"0x101445367f48e43c47c7baa6927564ef2e00d223"},{"total_supply_value_in_eth":{"value":"50097153622493126.00000000000"},"total_borrow_value_in_eth":{"value":"26938298486911046.10940200000"},"block_updated":3457815,"address":"0x8739bd1c2fca06bb220af051e249d7b3d990781c"},{"total_supply_value_in_eth":{"value":"100195482261302811.0000000000"},"total_borrow_value_in_eth":{"value":"53283810192545369.50099228000"},"block_updated":3457818,"address":"0x535432535c3fe8fd07902989e33bbacf72cf0814"},{"total_supply_value_in_eth":{"value":"409788072063739574.6570650493"},"total_borrow_value_in_eth":{"value":"214400189185339045.0913788207"},"block_updated":3457819,"address":"0xfd72981e24356f3b2b01e1d0c18cc7fead37f432"},{"total_supply_value_in_eth":{"value":"292167046631508052.0000000000"},"total_borrow_value_in_eth":{"value":"150885386377251664.0995372959"},"block_updated":3457818,"address":"0x2bc8a15c1f261a484d69fe093f15fa0646e5b3c3"},{"total_supply_value_in_eth":{"value":"20866968170587381302.22465688"},"total_borrow_value_in_eth":{"value":"10711281861950702778.81723024"},"block_updated":3457819,"address":"0x0006e4548aed4502ec8c844567840ce6ef1013f5"},{"total_supply_value_in_eth":{"value":"29439313978196062009.32754032"},"total_borrow_value_in_eth":{"value":"15029152139281420827.70211988"},"block_updated":3457819,"address":"0xb50eb12ecbe6371401f9b56c2aa12fe75c129d85"},{"total_supply_value_in_eth":{"value":"400990134023290053.0000000000"},"total_borrow_value_in_eth":{"value":"201966196533810874.6046310600"},"block_updated":3457819,"address":"0xf34171f8a56f36b72564897b05fca68efc28009b"},{"total_supply_value_in_eth":{"value":"100251559356883239.0000000000"},"total_borrow_value_in_eth":{"value":"50320836012431668.01917034000"},"block_updated":3457815,"address":"0x223374626583c65599c8c9dc1e23151224e77055"},{"total_supply_value_in_eth":{"value":"137153557860300391004.0000000"},"total_borrow_value_in_eth":{"value":"67901926197631531396.00000000"},"block_updated":3457815,"address":"0x53de1a33faf57e9341b532581847d13a2eb47814"},{"total_supply_value_in_eth":{"value":"8363838288617173972.389177394"},"total_borrow_value_in_eth":{"value":"4109130015616893259.398679842"},"block_updated":3457819,"address":"0x3e78b6e6066544c1483f0603ca8996c4892cd418"},{"total_supply_value_in_eth":{"value":"486711877865839783.0000000000"},"total_borrow_value_in_eth":{"value":"235803845691211419.8752037200"},"block_updated":3457819,"address":"0x0bcb7179e5a76aeacc1d362b4425509383e9e5b0"},{"total_supply_value_in_eth":{"value":"1007096597366537941.000000000"},"total_borrow_value_in_eth":{"value":"479408845229923823.4421940922"},"block_updated":3457819,"address":"0xd840d02bb3a715027343fc8428b61a7f83dcb6e7"},{"total_supply_value_in_eth":{"value":"1545455444667480929.000000000"},"total_borrow_value_in_eth":{"value":"687539006921800941.2449997440"},"block_updated":3457819,"address":"0x96a58046bd99208aa5025d25cd951ca5b7f1a449"},{"total_supply_value_in_eth":{"value":"200140677880708297.0000000000"},"total_borrow_value_in_eth":{"value":"89036672481619391.31684839662"},"block_updated":3457815,"address":"0x32720c334845503aec2eb0ef4e85b5bc5118dba1"},{"total_supply_value_in_eth":{"value":"100069649020150235.0000000000"},"total_borrow_value_in_eth":{"value":"44517639851578864.10399918545"},"block_updated":3457815,"address":"0x7b3baacf28a58b9c22a744ae31b0cfebd8379865"},{"total_supply_value_in_eth":{"value":"3007224060547574993.000000000"},"total_borrow_value_in_eth":{"value":"1021958872530231310.000000000"},"block_updated":3457815,"address":"0xe41086f6e4801bf49c0f9e24fb147cdfaf952a89"},{"total_supply_value_in_eth":{"value":"7591582995616502100.055486520"},"total_borrow_value_in_eth":{"value":"1750550732665539838.576027819"},"block_updated":3457819,"address":"0x4ff00ab850d02f36975ac90fc4377734694f5b81"},{"total_supply_value_in_eth":{"value":"238041707349444783.7610773908"},"total_borrow_value_in_eth":{"value":"52120213177019600.36178623549"},"block_updated":3457818,"address":"0x13a9a2ae288b5ee9de55d5355b3344fb1a601934"},{"total_supply_value_in_eth":{"value":"563363117424643177.3429691200"},"total_borrow_value_in_eth":{"value":"100978460174682087.0000000000"},"block_updated":3457815,"address":"0x7fe8562b325d44ce396d95ab1c3f449730db4779"},{"total_supply_value_in_eth":{"value":"208204191289425396.0000000000"},"total_borrow_value_in_eth":{"value":"30964764416905250.32477247857"},"block_updated":3457815,"address":"0x878368019cec9498d22e28b41fe59ab3deb0673c"},{"total_supply_value_in_eth":{"value":"1525629616414402781.350488036"},"total_borrow_value_in_eth":{"value":"215185913939927343.8513594000"},"block_updated":3457819,"address":"0xb819706e897eacf235cdb5048962bd65873202c4"},{"total_supply_value_in_eth":{"value":"577817181523042989.1672382804"},"total_borrow_value_in_eth":{"value":"74899321160195019.86430098000"},"block_updated":3457815,"address":"0xe3308cc77d42669cc60a9df8e53252002c46414b"},{"total_supply_value_in_eth":{"value":"174322549922183862.2600052336"},"total_borrow_value_in_eth":{"value":"20523385633932424.00000000000"},"block_updated":3457815,"address":"0x94da43c587c515ad30ea86a208603a7586d2c25f"},{"total_supply_value_in_eth":{"value":"146442730034780888.6028209600"},"total_borrow_value_in_eth":{"value":"14902199903355031.59506532000"},"block_updated":3457815,"address":"0xd523c9fd5ded98bd6abc05ee3392dd750ea0059a"},{"total_supply_value_in_eth":{"value":"7453132591192674831.834897600"},"total_borrow_value_in_eth":{"value":"176452418711310452.4989525625"},"block_updated":3457819,"address":"0xa978ac296565724475edbe0c7f71f964ed59c02d"}]}
+{
+  "request": {
+    "page_size": 100,
+    "page_number": 1,
+    "min_borrow_value_in_eth": { "value": "10000000000000000" },
+    "max_collateral_ratio": { "value": "50" }
+  },
+  "pagination_summary": {
+    "total_pages": 1,
+    "total_entries": 27,
+    "page_size": 100,
+    "page_number": 1
+  },
+  "error": null,
+  "accounts": [
+    {
+      "total_supply_value_in_eth": { "value": "100208241726887461.0000000000" },
+      "total_borrow_value_in_eth": { "value": "54630940400959740.85656468000" },
+      "block_updated": 3457815,
+      "address": "0xe4aa4aa4d768aeed2a6c84d698fecad89d24773b"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "100194427264004689.0000000000" },
+      "total_borrow_value_in_eth": { "value": "53876859950636485.33804118000" },
+      "block_updated": 3457818,
+      "address": "0x101445367f48e43c47c7baa6927564ef2e00d223"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "50097153622493126.00000000000" },
+      "total_borrow_value_in_eth": { "value": "26938298486911046.10940200000" },
+      "block_updated": 3457815,
+      "address": "0x8739bd1c2fca06bb220af051e249d7b3d990781c"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "100195482261302811.0000000000" },
+      "total_borrow_value_in_eth": { "value": "53283810192545369.50099228000" },
+      "block_updated": 3457818,
+      "address": "0x535432535c3fe8fd07902989e33bbacf72cf0814"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "409788072063739574.6570650493" },
+      "total_borrow_value_in_eth": { "value": "214400189185339045.0913788207" },
+      "block_updated": 3457819,
+      "address": "0xfd72981e24356f3b2b01e1d0c18cc7fead37f432"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "292167046631508052.0000000000" },
+      "total_borrow_value_in_eth": { "value": "150885386377251664.0995372959" },
+      "block_updated": 3457818,
+      "address": "0x2bc8a15c1f261a484d69fe093f15fa0646e5b3c3"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "20866968170587381302.22465688" },
+      "total_borrow_value_in_eth": { "value": "10711281861950702778.81723024" },
+      "block_updated": 3457819,
+      "address": "0x0006e4548aed4502ec8c844567840ce6ef1013f5"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "29439313978196062009.32754032" },
+      "total_borrow_value_in_eth": { "value": "15029152139281420827.70211988" },
+      "block_updated": 3457819,
+      "address": "0xb50eb12ecbe6371401f9b56c2aa12fe75c129d85"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "400990134023290053.0000000000" },
+      "total_borrow_value_in_eth": { "value": "201966196533810874.6046310600" },
+      "block_updated": 3457819,
+      "address": "0xf34171f8a56f36b72564897b05fca68efc28009b"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "100251559356883239.0000000000" },
+      "total_borrow_value_in_eth": { "value": "50320836012431668.01917034000" },
+      "block_updated": 3457815,
+      "address": "0x223374626583c65599c8c9dc1e23151224e77055"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "137153557860300391004.0000000" },
+      "total_borrow_value_in_eth": { "value": "67901926197631531396.00000000" },
+      "block_updated": 3457815,
+      "address": "0x53de1a33faf57e9341b532581847d13a2eb47814"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "8363838288617173972.389177394" },
+      "total_borrow_value_in_eth": { "value": "4109130015616893259.398679842" },
+      "block_updated": 3457819,
+      "address": "0x3e78b6e6066544c1483f0603ca8996c4892cd418"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "486711877865839783.0000000000" },
+      "total_borrow_value_in_eth": { "value": "235803845691211419.8752037200" },
+      "block_updated": 3457819,
+      "address": "0x0bcb7179e5a76aeacc1d362b4425509383e9e5b0"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "1007096597366537941.000000000" },
+      "total_borrow_value_in_eth": { "value": "479408845229923823.4421940922" },
+      "block_updated": 3457819,
+      "address": "0xd840d02bb3a715027343fc8428b61a7f83dcb6e7"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "1545455444667480929.000000000" },
+      "total_borrow_value_in_eth": { "value": "687539006921800941.2449997440" },
+      "block_updated": 3457819,
+      "address": "0x96a58046bd99208aa5025d25cd951ca5b7f1a449"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "200140677880708297.0000000000" },
+      "total_borrow_value_in_eth": { "value": "89036672481619391.31684839662" },
+      "block_updated": 3457815,
+      "address": "0x32720c334845503aec2eb0ef4e85b5bc5118dba1"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "100069649020150235.0000000000" },
+      "total_borrow_value_in_eth": { "value": "44517639851578864.10399918545" },
+      "block_updated": 3457815,
+      "address": "0x7b3baacf28a58b9c22a744ae31b0cfebd8379865"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "3007224060547574993.000000000" },
+      "total_borrow_value_in_eth": { "value": "1021958872530231310.000000000" },
+      "block_updated": 3457815,
+      "address": "0xe41086f6e4801bf49c0f9e24fb147cdfaf952a89"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "7591582995616502100.055486520" },
+      "total_borrow_value_in_eth": { "value": "1750550732665539838.576027819" },
+      "block_updated": 3457819,
+      "address": "0x4ff00ab850d02f36975ac90fc4377734694f5b81"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "238041707349444783.7610773908" },
+      "total_borrow_value_in_eth": { "value": "52120213177019600.36178623549" },
+      "block_updated": 3457818,
+      "address": "0x13a9a2ae288b5ee9de55d5355b3344fb1a601934"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "563363117424643177.3429691200" },
+      "total_borrow_value_in_eth": { "value": "100978460174682087.0000000000" },
+      "block_updated": 3457815,
+      "address": "0x7fe8562b325d44ce396d95ab1c3f449730db4779"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "208204191289425396.0000000000" },
+      "total_borrow_value_in_eth": { "value": "30964764416905250.32477247857" },
+      "block_updated": 3457815,
+      "address": "0x878368019cec9498d22e28b41fe59ab3deb0673c"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "1525629616414402781.350488036" },
+      "total_borrow_value_in_eth": { "value": "215185913939927343.8513594000" },
+      "block_updated": 3457819,
+      "address": "0xb819706e897eacf235cdb5048962bd65873202c4"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "577817181523042989.1672382804" },
+      "total_borrow_value_in_eth": { "value": "74899321160195019.86430098000" },
+      "block_updated": 3457815,
+      "address": "0xe3308cc77d42669cc60a9df8e53252002c46414b"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "174322549922183862.2600052336" },
+      "total_borrow_value_in_eth": { "value": "20523385633932424.00000000000" },
+      "block_updated": 3457815,
+      "address": "0x94da43c587c515ad30ea86a208603a7586d2c25f"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "146442730034780888.6028209600" },
+      "total_borrow_value_in_eth": { "value": "14902199903355031.59506532000" },
+      "block_updated": 3457815,
+      "address": "0xd523c9fd5ded98bd6abc05ee3392dd750ea0059a"
+    },
+    {
+      "total_supply_value_in_eth": { "value": "7453132591192674831.834897600" },
+      "total_borrow_value_in_eth": { "value": "176452418711310452.4989525625" },
+      "block_updated": 3457819,
+      "address": "0xa978ac296565724475edbe0c7f71f964ed59c02d"
+    }
+  ],
+  "liquidation_incentive": "1050000000000000000",
+  "close_factor": "550000000000000000"
+}
